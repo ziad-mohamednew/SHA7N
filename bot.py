@@ -10,7 +10,7 @@ from telethon import TelegramClient, events, Button
 # ============================================
 
 BOT_TOKEN = "8858529708:AAHmGQhODiDrJ-vhjgzGipgPpVAzXMNb7Lo"  # غير ده
-SMM_API_KEY = "YOUR_SMM_API_KEY_HERE"  # غير ده
+SMM_API_KEY = "4263eb4c444cfaddf7f29ab89d321940"  # غير ده
 SMM_API_URL = "https://smmbasha.com/api/v2"
 
 WALLET_NUMBERS = {
