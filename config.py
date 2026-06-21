@@ -6,7 +6,7 @@
 BOT_TOKEN = "8858529708:AAHmGQhODiDrJ-vhjgzGipgPpVAzXMNb7Lo"
 
 # API Key بتاع SMMBasha
-SMM_API_KEY = "YOUR_SMM_API_KEY_HERE"
+SMM_API_KEY = "4263eb4c444cfaddf7f29ab89d321940"
 SMM_API_URL = "https://smmbasha.com/api/v2"
 
 # أرقام المحافظ للشحن
